@@ -3,10 +3,17 @@
     line-height: 1.5em;
 }
 p.redred{
-    color: red;
+    color: rgb(139,0,0);
     font-size: 40px;
     text-align: center;
 }
 .blueblue{
-    color: blue;
+    color: rgb(35,65,90);
+}
+body{
+    background-color: rgb(220,220,220);
+    font-family: 'Noto Sans TC','sans-serif';
+}
+h1,h2,h3,h4,h5,h6,h1,h2,h3,h4,h5,h6{
+    font-family: 'Noto Sans TC','sans-serif';
 }
