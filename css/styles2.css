@@ -18,3 +18,10 @@ body{
 h1,h2,h3,h4,h5,h6,h1,h2,h3,h4,h5,h6{
     font-family: 'Noto Sans TC','sans-serif';
 }
+.expedu_icon{
+    color:rgb(139,0,0);
+}
+.expedu_icon:hover{
+    background-color:rgb(2, 11, 136);
+    color:rgb(255, 255, 255);
+}
