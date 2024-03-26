@@ -7,9 +7,12 @@ p.redred{
     font-size: 40px;
     text-align: center;
     font-family: 'Noto serif TC','sans-serif';
+    background-image: url(../assets/img/background.jpg);
+    border: 10px solid;
+    border-color: rgb(65, 14, 14);
 }
 .blueblue{
-    color: rgb(35,65,90);
+    color: rgb(255, 255, 255);
 }
 body{
     background-color: rgb(220,220,220);
@@ -25,3 +28,11 @@ h1,h2,h3,h4,h5,h6,h1,h2,h3,h4,h5,h6{
     background-color:rgb(2, 11, 136);
     color:rgb(255, 255, 255);
 }
+
+.bg-primary {
+    background-color: black !important;
+      background-image: url(../assets/img/bg.jpg);
+      background-repeat: no-repeat;
+      background-size: cover;
+      background-position: center;
+  }
