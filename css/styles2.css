@@ -2,14 +2,19 @@
     letter-spacing: 0.8px;
     line-height: 1.5em;
 }
-p.redred{
+div.redred{
+    padding:10px 150px 0px 120px;
     color: rgb(139,0,0);
     font-size: 40px;
     text-align: center;
+    border: 10px solid;
+    border-radius: 15px;
+    margin: 0px 0px 100px 50%;
+    border-color: rgb(65, 14, 14);
     font-family: 'Noto serif TC','sans-serif';
     background-image: url(../assets/img/background.jpg);
-    border: 10px solid;
-    border-color: rgb(65, 14, 14);
+    background-repeat:no-repeat;
+    background-position: center;
 }
 .blueblue{
     color: rgb(255, 255, 255);
@@ -39,12 +44,16 @@ h1,h2,h3,h4,h5,h6,h1,h2,h3,h4,h5,h6{
 ol.list01{
     list-style-type:upper-roman;
 }
-ol.list02{
+ul.list02{
     list-style-type:square;
 }
 ol.list01>li:hover{
     background-color:rgb(2, 11, 136);
     color: brown;
+}
+ul.list02>li:hover{
+    background-color:rgb(2, 11, 136);
+    color: brown
 }
 table.table01{
     width: 80%;
