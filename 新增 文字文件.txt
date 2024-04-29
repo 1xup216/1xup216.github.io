@@ -1,0 +1,267 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+        <meta name="description" content="" />
+        <meta name="author" content="林禹丞" />
+        <title>林禹丞的自我介紹</title>
+        <link rel="icon" type="image/x-icon" href="assets/img/favicon.ico" />
+        <!-- Font Awesome icons (free version)-->
+        <script src="https://use.fontawesome.com/releases/v6.5.2/js/all.js" crossorigin="anonymous"></script>
+        <!-- Google fonts-->
+        <link href="https://fonts.googleapis.com/css?family=Saira+Extra+Condensed:500,700" rel="stylesheet" type="text/css" />
+        <link href="https://fonts.googleapis.com/css?family=Muli:400,400i,800,800i" rel="stylesheet" type="text/css" />
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@100..900&family=Noto+Serif+TC&display=swap" rel="stylesheet">
+        <!-- Core theme CSS (includes Bootstrap)-->
+        <link href="css/styles.css" rel="stylesheet" />
+        <link href="css/styles2.css" rel="stylesheet" />
+    </head>
+    <body id="page-top">
+        <!-- Navigation-->
+        <nav class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top" id="sideNav">
+            <a class="navbar-brand js-scroll-trigger" href="#page-top">
+                <span class="d-block d-lg-none">林禹丞 Denny</span>
+                <span class="d-none d-lg-block"><img class="img-fluid img-profile rounded-circle mx-auto mb-2" src="assets/img/myself.jpg" alt="我本人"></span>
+            </a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
+            <div class="collapse navbar-collapse" id="navbarResponsive">
+                <ul class="navbar-nav">
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#about">關於我</a></li>
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#experience">工作經驗</a></li>
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#education">教育</a></li>
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#skills">技能</a></li>
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#interests">興趣</a></li>
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#awards">作品集</a></li>
+                </ul>
+            </div>
+        </nav>
+        <!-- Page Content-->
+        <div class="container-fluid p-0">
+            <!-- About-->
+            <section class="resume-section" id="about">
+                <div class="resume-section-content">
+                    <h1 class="mb-0">
+                        Rayel
+                        <span class="text-primary">林禹丞</span>
+                    </h1>
+                    <h2 class="text-primary">A110070042</h2>
+                    <div class="subheading mb-5">
+                        <span class="text1">前條碼師、前飲料店店員、前貝果店店員、現ABC-MART</span>
+                        <a href="1xup216@email.com">1xup216@email.com</a>
+                    </div>
+                    <p class="lead mb-5" style="text-indent: 2em;"><span class="text1"> 我是世新大學資訊傳播學系三年級的詹弼程。我的興趣涵蓋了攝影、電影、美食、以及露營。攝影是我的熱情所在，透過鏡頭捕捉生活中的美好瞬間，是我喜歡用影像敘述故事的方式。對於電影也抱有極大的熱愛，喜歡深入探討不同類型的電影，並欣賞各種敘事風格和表現手法。 美食與我緊密相連，喜歡品嚐各種風味的料理，並探索不同文化的飲食習慣。睡眠對我而言是重要的恢復時間，讓我能充滿活力地迎接每一天的挑戰。另外，露營是我放鬆身心的好方式，喜歡在大自然中感受清新的空氣和寧靜的環境。 在資訊傳播學系的學習中，我努力將我的興趣與專業結合，探索創新的媒體應用。期待未來能透過這些多元的興趣和學習，為自己開創更豐富的人生體驗。
+                    </span>
+                    </p>
+                   <!--  
+                   <div class="redred"><span class="blueblue">安安</span>測試測試<br /><img src="assets/img/unnamed.jpg" alt="貓" width="300px"></div>
+                    <ol class="list-group">
+                        <h4>有序清單</h4>
+                        <li class="list-group-item list-group-item-success">第一</li>
+                        <li class="list-group-item active">第二<a href="https://www.youtube.com/" target="_blank"><span class="blueblue">立即觀看</span></a></li>
+                        <li class="list-group-item list-group-item-warning">第三</li>
+                    </ol>
+                    <ul class="list02">
+                        <h4>無序清單</h4>
+                        <li>第一</li>
+                        <li>第二</li>
+                        <li>第三</li>
+                    </ul>
+                    <table class="table table-striped table-hover w-50">
+                        <tr class="table-primary">
+                            <th>姓名</th>
+                            <th>性別</th>
+                            <th>郵件</th>
+                        </tr>
+                        <tr>
+                            <th>詹弼程</th>
+                            <th>男</th>
+                            <th>leoulian0506@gmail.com</th>
+                        </tr>
+                        <tr>
+                            <th>詹弼程</th>
+                            <th>男</th>
+                            <th>leoulian0506@gmail.com</th>
+                        </tr>
+                    </table>
+                    <a href = "https://www.youtube.com/watch?v=iDhVJmEDPaU&pp=ygUIOTLnhKHnsaQ%3D" target="_blank">92無籤氣游</a>
+                    -->
+                    <div class="social-icons">
+                        <a class="social-icon" href="https://youtube.com/@user-zm7zd3kz8y?si=oK9MXQe4QNoqaL9K" target="_blank"><i class="fa-brands fa-youtube"></i></a>
+                        <a class="social-icon" href="https://www.facebook.com/profile.php?id=100006100721435" target="_blank"><i class="fab fa-facebook-f"></i></a>
+                        <a class="social-icon" href="https://www.instagram.com/z.b.c_0506/?hl=zh-tw/" target="_blank"><i class="fa-brands fa-instagram"></i></a>
+                    </div>
+                </div>
+            </section>
+            <hr class="m-0" />
+            <!-- Experience-->
+            <section class="resume-section" id="experience">
+                <div class="resume-section-content">
+                    <h2 class="mb-5">工作經驗</h2>
+                    <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
+                        <div class="flex-grow-1">
+                            <h3 class="mb-0">UNQLO西門店</h3>
+                            <div class="subheading mb-3">PT仔</div>
+                            <p>在UNIQLO西門店的工作歷程中，我負責賣場服飾的整理和販售，以及倉庫管理，確保商品妥善存放。我參與網路訂單門市取貨，負責相關進出貨流程。在櫃檯，我處理結帳工作並協助顧客的退換貨事宜，同時協助外國顧客辦理退稅手續。試衣間方面，我負責整理和歸納商品，確保顧客能夠方便舒適地試穿。此外，我參與季節和暢銷商品的陳列方式的規劃，提高商品的曝光度。每天，我負責現場販售商品並進行維運回報，同時有效地管理個人工作時間，確保工作順利進行。</p>
+                        </div>
+                        <div class="flex-shrink-0"><span class="text-primary"> 2023/10 - 現在</span></div>
+                    </div>
+                    <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
+                        <div class="flex-grow-1">
+                            <h3 class="mb-0">黑毛屋本家</h3>
+                            <div class="subheading mb-3">牛逼的PT仔</div>
+                            <p>擔任乾杯集團旗下-黑毛屋本家Sogo復興店外場訓練員、外場領班以及外場值班主管，負責帶領店舖同仁完成每日營業目標，指揮內外場人力以滿足顧客需求，使店舖順利運轉。並於店舖擔任外場訓練員，培訓眾多正職及兼職同事，曾帶領店舖單日24萬營業額，並屢獲客人好評。</p>
+                        </div>
+                        <div class="flex-shrink-0"><span class="text-primary"> 2022/02 - 2023/08</span></div>
+                    </div>
+                </div>
+            </section>
+            <hr class="m-0" />
+            <!-- Education-->
+            <section class="resume-section" id="education">
+                <div class="resume-section-content">
+                    <h2 class="mb-5">學歷</h2>
+                    <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
+                        <div class="flex-grow-1">
+                            <h3 class="mb-0">世新大學  <a class = "expedu_icon"href = "https://ics.wp.shu.edu.tw/" target="_blank"><i class="fa-solid fa-link"></i></a></h3>
+                            <div class="subheading mb-3">資訊傳播學系</div>
+                            <div>擁有廣泛的學習背景和專業技能，專注於資訊整合、專案企劃、媒體傳播和網頁設計等領域。這些學習領域的結合讓我具備了豐富的跨領域知識和實踐經驗。<br />
+                            <br />   
+                                首先，資訊整合是我專業的核心之一。通過學習資訊科技和傳播理論，我能夠有效地整合各種資訊來源，並運用數據分析方法來處理和呈現信息，以提供最佳的解決方案。
+                             <br /> 
+                             <br />   
+                                其次，我在專案企劃方面有相當的經驗。這包括項目管理、計畫執行和團隊合作等技能。透過實際的專案案例，我學會了如何有效地規劃和執行各種媒體和網路專案，以實現客戶或組織的目標。
+                              <br />
+                              <br />   
+                                此外，媒體傳播是我在學系中的另一個重要領域。我對媒體的發展趨勢和傳播理論有深入的了解，並能夠運用這些知識來創作具有影響力的內容，無論是文字、圖像還是視頻形式。
+                             <br />   
+                             <br /> 
+                                最後，我也擅長網頁設計，能夠利用各種工具和技術來設計和開發各種類型的網站。我對使用者體驗和界面設計有著深入的理解，可以設計出既美觀又易用的網站，以滿足不同用戶的需求。
+                             <br />
+                             <br />     
+                                總結來說，作為世新大學資訊傳播學系的三年級學生，我具備了全面的資訊整合、專案企劃、媒體傳播和網頁設計能力，並致力於將這些技能應用於實踐中，為未來的職業發展奠定堅實的基礎。</div>
+                        </div>
+                        <div class="flex-shrink-0"><span class="text-primary">2021/09 - NOW</span></div>
+                    </div>
+                    <div class="d-flex flex-column flex-md-row justify-content-between">
+                        <div class="flex-grow-1">
+                            <h3 class="mb-0">弘文高中  <a class = "expedu_icon"href = "https://www.hwhs.tc.edu.tw/home" target="_blank"><i class="fa-solid fa-link"></i></a></h3>
+                            <div class="subheading mb-3">普通科</div>
+                            <p>破學店</p>
+                            <div>在弘文高中度過的高中生涯，我不僅在學業上努力追求知識，更積極參與學校的各項活動，擔任著學生會幹部及扶少團幹部的重要職責。這段時光不僅僅是我的成長歷程，更是我個人價值觀和領導能力的塑造之旅。<br />
+                                <br/>
+                                擔任學生會幹部期間，我承擔了許多責任，包括組織學校活動、促進同學之間的溝通與合作、提出改進校園生活的建議等。這些經歷不僅培養了我的組織能力和領導才能，也讓我深刻理解了團隊合作的重要性以及如何在團隊中發揮自己的潛能。
+                                <br />
+                                <br />
+                                同時，作為扶少團幹部，我參與了多項社區服務和公益活動，透過實際行動關懷弱勢群體，讓我感受到了服務他人的快樂與意義。這段經歷不僅豐富了我的人生閱歷，更讓我明白了責任與奉獻的價值。
+                                <br />
+                                <br />
+                                在學校舉辦的各項活動中，我有幸擔任主持人，這不僅是一個展現自己表達能力的機會，更是一個讓我與同學們更加拉近距離的平台。通過這些活動，我學會了如何與不同背景的人溝通，如何處理突發狀況，以及如何在壓力下保持鎮定。
+                                <br />
+                                <br />
+                                我的高中經歷不僅豐富多彩，更讓我在各方面都得到了成長和提升。我相信這些寶貴的經驗將成為我未來人生道路上堅強的支柱，讓我更加堅定地走向未來的目標和夢想。
+                            </div>
+                        </div>
+                        <div class="flex-shrink-0"><span class="text-primary">2018/07 - 2021/06</span></div>
+                    </div>
+                </div>
+            </section>
+            <hr class="m-0" />
+            <!-- Skills-->
+            <section class="resume-section" id="skills">
+                <div class="resume-section-content">
+                    <h2 class="mb-5">技能</h2>
+                    <div class="subheading mb-3">SKILLS</div>
+                    <ul class="list-inline dev-icons">
+                        <li class="list-inline-item"><i class="fa-solid fa-code"></i></li>
+                        <li class="list-inline-item"><i class="fa-solid fa-video"></i></li>
+                        <li class="list-inline-item"><i class="fa-solid fa-rectangle-ad"></i></li>
+                        <li class="list-inline-item"><i class="fa-solid fa-gamepad"></i></li>
+                        <li class="list-inline-item"><i class="fa-solid fa-utensils"></i></li>
+                        <li class="list-inline-item"><i class="fa-solid fa-camera"></i></li>
+                    </ul>
+                    <div class="subheading mb-3">Wall Giu Niu Bee</div>
+                    <ul class="list-group">
+                        <li class="list-group-item">
+                            <i class="fa-solid fa-code"></i></span>
+                            <span class="m-4">撰寫程式及網頁編寫</span>
+                        </li>
+                        <li class="list-group-item">
+                            <i class="fa-solid fa-video"></i></span>
+                            <span class="m-4">動態影像拍攝及剪輯</span>
+                        </li>
+                        <li class="list-group-item">
+                            <i class="fa-solid fa-rectangle-ad"></i></span>
+                            <span class="m-4">市場行銷及廣告</span>
+                        </li>
+                        <li class="list-group-item">
+                            <i class="fa-solid fa-gamepad"></i></span>
+                            <span class="m-4">遊戲操作及鑽研</span>
+                        </li>
+                        <li class="list-group-item">
+                            <i class="fa-solid fa-utensils"></i></span>
+                            <span class="m-4">烹飪調理</span>
+                        </li>
+                        <li class="list-group-item">
+                            <i class="fa-solid fa-camera"></i></span>
+                            <span class="m-4">靜態攝影創作及調色</span>
+                        </li>
+                    </ul>
+                </div>
+            </section>
+            <hr class="m-0" />
+            <!-- Interests-->
+            <section class="resume-section" id="interests">
+                <div class="resume-section-content">
+                    <h2 class="mb-5">興趣</h2>
+                    <p>我的興趣多元，其中最讓我著迷的三個領域分別是影像製作、烹飪以及閱讀。對我而言，這些興趣不僅是消遣娛樂，更是豐富生活、表達自我的重要途徑。
+                        <br />
+                        <br />
+                        首先，影像製作是我熱愛的創作領域之一。透過攝影和影片製作，我可以捕捉生活中的美好瞬間，並以獨特的視角展現出來。我喜歡探索不同的拍攝技巧和後期製作方法，不斷挑戰自己的創作極限，讓影像作品更具藝術性和感染力。從大自然的風光到人文情感的刻畫，我都喜歡通過影像來呈現世界的多樣面貌。</p>
+                    <p class="mb-0">其次，我對烹飪也有著濃厚的興趣，並且持之以恆地鑽研相關技能。在廚房裡，我不僅能夠發揮創造力，還可以感受到烹飪帶來的樂趣和成就感。我喜歡嘗試各種不同的食材和菜系，並且努力學習烹飪的技巧和配方。從烤餅到湯品，從中式料理到西式美食，我都樂於挑戰，不斷探索出屬於自己的烹飪風格。
+                        <br />
+                        <br />
+                        最後，閱讀是我生活中不可或缺的一部分。無論是小說、專業書籍還是雜誌，我都喜歡涉獵各種不同類型的作品。閱讀不僅豐富了我的知識儲備，還拓展了我的思維邏輯和語言表達能力。每一本書籍都是一次心靈的旅程，讓我能夠在文字的世界中遨遊，汲取智慧和靈感。
+                        <br />
+                        <br />
+                        總的來說，影像製作、烹飪以及閱讀是我生活中的三大樂趣，它們豐富了我的生活，啟發了我的創造力，並且讓我不斷成長和進步。這些興趣也成為了我生活中不可或缺的一部分，塑造了我獨特的個性和風格。</p>
+                </div>
+            </section>
+            <hr class="m-0" />
+            <!-- Awards-->
+            <section class="resume-section" id="awards">
+                <div class="resume-section-content">
+                    <h2 class="mb-5">作品集</h2>
+                    <ul class="fa-ul mb-0" id="awards_table">
+                        <li>
+                            <span class="fa-li"><i class="fa-brands fa-youtube"></i></span>
+                            <a href = "https://www.youtube.com/watch?v=-M4Mx_PSlvc"target="_blank">高中畢業短片</a>
+                        </li>
+                        <li>
+                            <span class="fa-li"><i class="fa-brands fa-youtube"></i></span>
+                            <a href = "https://www.youtube.com/watch?v=6D2QF7zqixg"target="_blank">飢餓12空拍記錄</a>
+                        </li>
+                        <li>
+                            <span class="fa-li"><i class="fa-brands fa-youtube"></i></span>
+                            <a href = "https://www.youtube.com/watch?v=siBXcmMpCHM&pp=ygUq5byY5paH5Lit5a2456ys5YWr5bGG55Wi5qWt57GM6L6m5aeU5ZOh5pyD"target="_blank">高中畢業歌MV</a>
+                        </li>
+                        <li>
+                            <span class="fa-li"><i class="fa-brands fa-youtube"></i></span>
+                            <a href ="https://www.youtube.com/watch?v=aGABLUEsHLA"target="_blank">弘文之星紀錄片</a>
+                        </li>
+                        <li>
+                            <span class="fa-li"><i class="fa-brands fa-youtube"></i></span>
+                            <a href = "https://www.youtube.com/watch?v=4C_w0DXbmFw&t=699s"target="_blank">私立弘文高級中學109學年度畢業典禮</a>
+                        </li>
+                    </ul>
+                </div>
+            </section>
+        </div>
+        <!-- Bootstrap core JS-->
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"></script>
+        <!-- Core theme JS-->
+        <script src="js/scripts.js"></script>
+    </body>
+</html>
